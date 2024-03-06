@@ -1,2 +1,2 @@
-## PNG maps of vaccination level in regions, depending of the dose number
+## Data Visualization project about COVID-19 outbreak in India
 
