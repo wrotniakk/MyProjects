@@ -1,3 +1,4 @@
+# NLP DL project, aiming to predict movie genres based on their short description
 ### Folder contains:
 
 - data - csv files, movies datasets
