@@ -1,5 +1,7 @@
 # Data analysis and (animated) visualization project
 
+It presents various world and countries population info. Mostly the population dynamic throughout the years 1960-2020.
+
 ### Folder contains:
 - .ipynb_checkpoints - concerning Jupyter Notebook
 - API_(...) - additional data files
