@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/final_project_NPP.egg-info/PKG-INFO
+src/final_project_NPP.egg-info/SOURCES.txt
+src/final_project_NPP.egg-info/dependency_links.txt
+src/final_project_NPP.egg-info/top_level.txt
+src/formulas/__init__.py
+src/formulas/formulas.py
