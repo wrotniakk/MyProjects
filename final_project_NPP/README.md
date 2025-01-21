@@ -1,5 +1,4 @@
-This is the final assignment for the subject NPP (polish for "Programming Tools in Python") at MIMUW (Faculty of Mathematics, Warsaw University)
-
+This is the final assignment for the subject NPP (polish for "Programming Tools in Python") at MIMUW (Faculty of Mathematics, Warsaw University)//
 It provides an analysis of IMDB Movie Data.
 
 More specifically, it revolves around defining metrics by which one can measure success of a movie, director etc.
